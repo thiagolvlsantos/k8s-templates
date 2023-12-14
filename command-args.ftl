@@ -1,0 +1,2 @@
+command: [${COMMAND}]
+args: [${ARGS}]
